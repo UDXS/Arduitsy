@@ -20,8 +20,10 @@
 * 1x ATtiny85 8-SOIC
 * 1x 2x03 male header
 * 2x 1X04 stacking (male & female) headers (recommended)
+
 OR
 * 2x 1X04 male headers
+
 OR
 * 2x 1X04 female headers
 
