@@ -12,6 +12,7 @@
 *All can be used as digital
 *ICSP(In-Circuit Serial Programming) lets you program it with any ICSP programmer or even any Arduino (Requires jumper wires)!
 *JST-PH connector which means you can connect any LiPo or Battery Pack to it
+
 ---
 #### Ingredients Required
 *2x 10k ohm 0805 surface-mount resistors
