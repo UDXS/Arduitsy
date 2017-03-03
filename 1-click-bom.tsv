@@ -1,11 +1,7 @@
-Part	Value	Device	Package	Description	MPN	OC_FARNELL	OC_NEWARK	PACKAGE	PROD_ID	SF_ID	SUPPLIER	VALUE
----	10k	R-US_M0805	M0805	RESISTOR, American symbol								
-----	FEMALE 2x3	CONN_03X2FEMALE	2X3	Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections					CONN-11566			FEMALE 2x3
-.1UF		C-USC0805	C0805	CAPACITOR, American symbol								
-D1	PINK	LED-PINK1206	LED-1206	Pink SMD LED					DIO-10415			PINK
-J1	+5V	JST_2MM_MALE	JST-2-SMD	JST 2MM MALE RA CONNECTOR					CONN-11443	PRT-08612		
-J2		CONN_04	1X04	Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections					CONN-09696			
-J3		CONN_04	1X04	Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections					CONN-09696			
-MCU		ATTINY85-20SU	SOIC127P798X216-8N	8-bit Microcontroller with In-System Programmable Flash	ATTINY85-20SU	1455164	58M3797	SOIC-8			Atmel	
-R1		R-US_R0805	R0805	RESISTOR, American symbol								
-RESET		SKHMPSE010	SKHMPXE010	6.2 X 6.5mm TACT Switch (SMD)								
+2	SAM1206-04-ND	
+1	609-3218-ND	
+2	RMCF0805FT10K0CT-ND	
+2	1276-2444-1-ND	
+1	ATTINY85-20SU-ND	
+1	455-1749-1-ND	
+1	1497-1188-1-ND	
