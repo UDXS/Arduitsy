@@ -10,7 +10,7 @@
 * 2 PWM pins
 * 3 Analog Read pins
 * All can be used as digital
-* ICSP(In-Circuit Serial Programming) lets you program it with any ICSP programmer or even any Arduino using ArduinoISP (Requires jumper wires)!
+* ICSP(In-Circuit Serial Programming) lets you program it with any ICSP programmer or even any Arduino using ArduinoISP (Requires jumper wires)! [Link](http://highlowtech.org/?p=1695)
 * JST-PH connector which means you can connect any LiPo or Battery Pack to it
 
 ---
