@@ -1,5 +1,5 @@
 # Arduitsy
-##A Tiny Arduino Daughterboard By David Markarian
+## A Tiny Arduino Daughterboard By David Markarian
 ---
 ### A tiny Arduino daughterboard that can fit in every project and is meant to power your smaller projects (Can be programmed by Arduino)
 ---
