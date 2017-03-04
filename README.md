@@ -19,6 +19,9 @@
 * 1x .1uF 0805 surface-mount capacitor
 * 1x ATtiny85 8-SOIC
 * 1x 2x03 male header
+* 1x Surface Mount Reset Button
+* 1x 0805 LED (Orange recommended)
+
 * 2x 1X04 stacking (male & female) headers (recommended)
 
 OR
