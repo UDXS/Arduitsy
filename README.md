@@ -22,6 +22,7 @@
 * 1x Surface Mount Reset Button
 * 1x 0805 LED (Orange recommended)
 * 2x 1X04 stacking (male & female) headers (recommended)
+
 OR (instead of stacking headers)
 * 2x 1X04 male headers
 
